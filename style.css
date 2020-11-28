@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+body {
+    padding: 40px;
+    background-image: url("hatter.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#kimenet1, #kimenet2 {
+    color: white;
+}
+#gomb {
+    margin-left: 85px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sajatspan {
+    color: white;
+    font-size: 20px;
+}
